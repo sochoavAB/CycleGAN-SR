@@ -1,0 +1,7 @@
+Epoch 1
+Train - PSNR A->B: 8.3369±1.7672, PSNR B->A: 11.5372±2.0123
+Train - SSIM A->B: 0.9792±0.0072, SSIM B->A: 0.9895±0.0043
+Train - Cutoff A->B: 25.9896±0.4121, Cutoff B->A: 27.3916±0.6080
+Valid - PSNR A->B: 17.2726±nan, PSNR B->A: 11.7358±nan
+Valid - SSIM A->B: 0.9983±nan, SSIM B->A: 0.9911±nan
+Valid - Cutoff A->B: 26.6464±nan, Cutoff B->A: 27.3737±nan
